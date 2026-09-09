@@ -1,0 +1,15 @@
+{
+  "name": "genpark-counterfactual-three-step-abduction-prediction-skill",
+  "version": "1.0.0",
+  "description": "Pearl's 3-step counterfactual engine (Abduction, Action, Prediction).",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "counterfactuals",
+    "pearl-abduction",
+    "what-if-analysis",
+    "individual-treatment-effect",
+    "agentic-ai"
+  ]
+}
